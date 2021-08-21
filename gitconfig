@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = julio.mielniczuk.cap@gmail.com
+	name = julio mielniczuk
